@@ -2,10 +2,13 @@
   "name": "nodejs-circleci",
   "version": "1.0.0",
   "description": "bowlingGame",
-  "main": "bowlingGame.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "adba98",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
