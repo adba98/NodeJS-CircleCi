@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-circleci",
+  "version": "1.0.0",
+  "description": "bowlingGame",
+  "main": "bowlingGame.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "adba98",
+  "license": "ISC"
+}
